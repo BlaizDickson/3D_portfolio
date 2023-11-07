@@ -1,8 +1,9 @@
 import React from 'react'
 
-const Feedback = () => {
-    return (
-        <div>Feedback</div>
-    )
+const Feedbacks = () => {
+  return (
+    <div>Feedbacks</div>
+  )
 }
-export default Feedback
+
+export default Feedbacks
