@@ -23,6 +23,7 @@ const Navbar = () => {
           >
             <img src={logo} width="150" height="150" alt="logo"
             className='w-9 h-9 object-contain' />
+            <p className='text-white text-[18px] font-bold cursor-pointer'>Bakeung Dickson</p>
         </Link>
 
       </div>
