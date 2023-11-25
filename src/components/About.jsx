@@ -64,3 +64,6 @@ const About = () => {
 };
 
 export default SectionWrapper(About, "about");
+
+//           <h1 className={`${styles.heroHeadText} text-white`}>Hi I'm <span className="text-[#915eff]">Bakeung</span></h1>
+// <p className={`${styles.heroSubText} mt-2 text-white-100`}>I develope accessible, interative and <br className="sm:block hidden" /> cross platform apps with 3D-visuals <br className="sm:block hidden" /> and animated web applications</p>
